@@ -7,9 +7,12 @@ myDeploy.md
 generated
 yarn.lock
 package-lock.json
-.vscode
 .env
 /.subgraph-env
 subgraph.yaml
 /src/common/chain.ts
 /*subgraph.yaml
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
