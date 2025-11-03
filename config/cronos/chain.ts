@@ -41,5 +41,6 @@ export class TokenDefinition {
   name: string
   decimals: BigInt
 }
+export const STATIC_TOKEN_DEFINITIONS: TokenDefinition[] = []
 
 export const SKIP_TOTAL_SUPPLY: string[] = []
